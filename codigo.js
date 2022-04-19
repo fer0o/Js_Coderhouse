@@ -37,7 +37,7 @@ function addElementToList () {
     Swal.fire({
       icon: 'error',
       title: 'Oops...',
-      text: 'Falta valor systolico!'
+      text: 'Falta valor sistolico!'
     })
     return
   }
